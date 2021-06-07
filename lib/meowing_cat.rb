@@ -1,3 +1,4 @@
 ## code your solution here.
 def cat
-  attr_accessor
+  attr_accessor :name
+  
